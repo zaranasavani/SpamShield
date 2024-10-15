@@ -1,0 +1,19 @@
+==>  Save the model
+import joblib 
+joblib.dump(model, 'SpamClassifier.pkl')
+joblib.dump(vectorizer, 'tfidf_vectorizer.pkl')
+
+
+==>  Directory Structure
+
+SpamClassification/
+│
+├── app.py
+├── SpamClassifier.pkl       
+├── tfidf_vectorizer.pkl    
+└── templates/
+    └── index.html           
+
+
+==>  Set up the Flask application
+pip install Flask

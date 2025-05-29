@@ -61,4 +61,5 @@ With an accuracy of 89%, the application offers a balance between speed and reli
 ## Screenshots
 
 ![App Screenshot](ham.png)
+![App Screenshot](spam.png)
 

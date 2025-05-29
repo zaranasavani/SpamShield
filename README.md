@@ -56,3 +56,9 @@ With an accuracy of 89%, the application offers a balance between speed and reli
 
     follow link show in your terminal after runnig app.py
     e.g. http://127.0.0.1:5000
+
+
+## Screenshots
+
+![App Screenshot](ham.png)
+
